@@ -1,0 +1,10 @@
+{
+  "pool": "0xedb67e8e9f77b8e48a4ff81b376699d5c8ba2c98",
+  "quote": "token0",
+  "start": "2026-11-16",
+  "interval": 15,
+  "next_block": 58713122,
+  "next_bucket": 1794933000,
+  "scanned_to": 58715669,
+  "updated_at": "2026-11-17T16:39:29Z"
+}
